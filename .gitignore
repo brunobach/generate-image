@@ -1,0 +1,10 @@
+ComfyUI/
+__pycache__/
+*.py[cod]
+*.part
+.chrome-panel-test/
+painel_preview.png
+image.png
+saidas*/
+conceitos_final.txt
+*_backup.txt

@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Ateliê Dixit</title>
+  <link rel="stylesheet" href="/estilo.css">
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="marca"><span class="marca-icone">✦</span><div><strong>Ateliê</strong><small>Dixit · produção local</small></div></div>
+      <button class="nav ativo" id="nav-decks">Meus decks</button>
+      <div class="sidebar-info">
+        <span class="rotulo">COMFYUI</span>
+        <div class="comfy"><i id="comfy-luz"></i><span id="comfy-texto">Verificando…</span></div>
+        <small id="comfy-fila"></small>
+      </div>
+    </aside>
+    <main>
+      <header class="topo">
+        <div><p class="eyebrow">ESTÚDIO LOCAL</p><h1 id="titulo">Meus decks</h1><p id="subtitulo">Acompanhe conceitos, candidatas e impressão.</p></div>
+        <button class="icone" id="atualizar" title="Atualizar agora">↻</button>
+      </header>
+      <section id="visao-decks"></section>
+      <section id="visao-deck" hidden>
+        <button class="voltar" id="voltar">← Todos os decks</button>
+        <div class="deck-cabecalho">
+          <div><h2 id="deck-nome"></h2><p id="deck-resumo"></p></div>
+          <button class="botao secundario" id="folha" hidden>Folha de contato</button>
+        </div>
+        <div class="acoes" id="acoes">
+          <button class="botao primario" data-acao="gerar">Gerar candidatas</button>
+          <button class="botao" data-acao="upscale">Upscale aprovadas</button>
+          <button class="botao" data-acao="finalizar">Finalizar deck</button>
+          <button class="botao" data-acao="qa">Executar QA</button>
+          <button class="botao fantasma" data-acao="validar">Validar ambiente</button>
+        </div>
+        <div id="aviso-processo" class="aviso" hidden></div>
+        <div class="metricas" id="metricas"></div>
+        <div class="filtros">
+          <input id="busca" type="search" placeholder="Buscar conceito ou número…">
+          <select id="filtro-status"><option value="">Todos os status</option><option value="pendente">Pendentes</option><option value="aprovada">Aprovadas</option><option value="reprovada">Reprovadas</option></select>
+          <select id="filtro-arquetipo"><option value="">Todos os arquétipos</option></select>
+          <span id="resultado-filtro"></span>
+        </div>
+        <div class="grade-cartas" id="grade-cartas"></div>
+      </section>
+      <section class="jobs-section">
+        <div class="secao-titulo"><h2>Atividade</h2><span id="jobs-resumo">Nenhum job iniciado pelo painel</span></div>
+        <div id="jobs" class="jobs"></div>
+        <pre id="logs" class="logs" hidden></pre>
+      </section>
+    </main>
+  </div>
+  <dialog id="modal-carta">
+    <div class="modal-topo"><div><p class="eyebrow" id="modal-id"></p><h2>Revisar carta</h2></div><button class="icone" id="fechar-modal">×</button></div>
+    <div id="modal-conteudo"></div>
+  </dialog>
+  <div id="toast" class="toast" hidden></div>
+  <script src="/app.js"></script>
+</body>
+</html>

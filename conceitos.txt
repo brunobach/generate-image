@@ -1,0 +1,84 @@
+001;figura_humana_objeto_impossivel;a woman seen from behind watering luminous flowers growing inside a birdcage suspended over an abyss
+002;figura_humana_objeto_impossivel;an old man fishing for stars from a rooftop while the moon watches through a keyhole
+003;figura_humana_objeto_impossivel;a child carrying a small sleeping moon in a glass jar through a field of open umbrellas
+004;figura_humana_objeto_impossivel;a solitary traveler opening a door hidden inside their own shadow at twilight
+005;figura_humana_objeto_impossivel;a woman in profile sewing a torn cloud with golden thread on an antique sewing machine
+006;figura_humana_objeto_impossivel;a man carrying a staircase folded under his arm across a shallow endless sea
+007;figura_humana_objeto_impossivel;a girl releasing paper boats from a cage where her heart should be, face turned away
+008;figura_humana_objeto_impossivel;a gardener planting tiny houses in a giant open pocket of a coat
+009;figura_humana_objeto_impossivel;a person in a long coat collecting rain in an hourglass beneath a cloudless sky
+010;figura_humana_objeto_impossivel;a dancer balancing a miniature sleeping village on the palm of one hand
+011;figura_humana_objeto_impossivel;a boy flying a kite shaped like a distant blue whale above a wheat field
+012;figura_humana_objeto_impossivel;a woman opening an umbrella filled with warm sunlight during a midnight storm
+013;figura_humana_objeto_impossivel;an elderly couple sharing one enormous pair of wings while sitting on a park bench
+014;figura_humana_objeto_impossivel;a lighthouse keeper pouring the light of a lighthouse into a small teacup
+015;figura_humana_objeto_impossivel;a child drawing a door on a misty lake as a forest appears beyond it
+016;figura_humana_objeto_impossivel;a person in profile holding an empty picture frame that captures a different season behind them
+017;figura_humana_objeto_impossivel;a traveler rowing a bathtub through clouds toward a tiny island with one tree
+018;figura_humana_objeto_impossivel;a woman braiding a river into her long hair while birds nest between the strands
+019;figura_humana_objeto_impossivel;a man seen from behind carrying a doorway on his back through a desert of clocks
+020;figura_humana_objeto_impossivel;a child exchanging a paper crown for a star with a mysterious figure inside a hollow tree
+021;animal_antropomorfizado;a fox in a tailored suit waiting at a bus stop where the sign points toward the moon
+022;animal_antropomorfizado;an owl reading a glowing book by firefly light while smaller owls sleep inside its pages
+023;animal_antropomorfizado;a rabbit in a raincoat selling bottled thunderstorms from a tiny wooden cart
+024;animal_antropomorfizado;a bear in pajamas carefully folding a starry night like a blanket
+025;animal_antropomorfizado;a hedgehog postman delivering letters carried by snails across a floating garden
+026;animal_antropomorfizado;a deer in a velvet jacket growing luminous lanterns from its antlers in a foggy station
+027;animal_antropomorfizado;a cat violinist playing music that becomes ribbons of moonlight around an empty ballroom
+028;animal_antropomorfizado;a whale wearing a small captain hat sailing a paper ship through the clouds
+029;animal_antropomorfizado;a mouse locksmith opening a tiny door in a giant sunflower with a silver key
+030;animal_antropomorfizado;a frog king holding an umbrella over a lonely mushroom during golden rain
+031;animal_antropomorfizado;a wolf in a wool scarf howling ribbons that mend holes in the evening sky
+032;animal_antropomorfizado;two penguin explorers planting a red flag on an iceberg drifting through a desert
+033;animal_antropomorfizado;a tortoise librarian carrying a tower of books with windows glowing inside its shell
+034;animal_antropomorfizado;a crow tailor measuring the shadow of a pine tree for a winter coat
+035;animal_antropomorfizado;a seahorse conductor leading an orchestra of bubbles aboard a sunken tram
+036;cenario_impossivel;an entire quiet city living inside a soap bubble above a child’s open hands
+037;cenario_impossivel;an escalator rising from a misty forest into a night sky filled with floating windows
+038;cenario_impossivel;a railway station where trains arrive horizontally from the sea and vertically from the clouds
+039;cenario_impossivel;a village built on the back of a sleeping whale beneath a warm sunset
+040;cenario_impossivel;a library with staircases diving into an ocean where books swim like fish
+041;cenario_impossivel;a lonely house balanced on the tip of a giant crescent moon over a dark valley
+042;cenario_impossivel;a theater stage opening onto several different seasons at once behind its red curtains
+043;cenario_impossivel;a bridge made of umbrellas crossing between two cliffs above a river of stars
+044;cenario_impossivel;a small cafe at the bottom of a teacup with customers visible through the porcelain cracks
+045;cenario_impossivel;a city growing upside down from the ceiling of a vast empty cave
+046;cenario_impossivel;a carousel turning slowly in the middle of the ocean with islands instead of horses
+047;cenario_impossivel;a maze of tall doors standing in a sunflower field with different skies behind each door
+048;cenario_impossivel;a train traveling across a bridge made from a single infinite ribbon tied around the moon
+049;cenario_impossivel;an island suspended above its own reflection in a perfectly still desert lake
+050;cenario_impossivel;a bedroom floating in space with its floor becoming a waterfall into a distant forest
+051;natureza_transformada;an ancient tree with many small doors in its trunk and warm light behind only one door
+052;natureza_transformada;a river flowing upward from a valley into clouds where salmon leap into the sky
+053;natureza_transformada;a forest of translucent trees holding tiny sunsets instead of leaves
+054;natureza_transformada;a mountain slowly unfolding like paper to reveal a green valley inside
+055;natureza_transformada;sunflowers turning their faces toward a cluster of floating lanterns at night
+056;natureza_transformada;a single tree growing from an open umbrella drifting across the sea
+057;natureza_transformada;a waterfall rising from a pool and weaving itself into a silver cloud
+058;natureza_transformada;a field of dandelions releasing tiny glowing houses instead of seeds
+059;natureza_transformada;a coral reef growing across the branches of an oak tree above a misty meadow
+060;natureza_transformada;a path of stepping stones blooming into flowers whenever the moonlight touches them
+061;natureza_transformada;a giant leaf sheltering a miniature rainy city from a desert sandstorm
+062;natureza_transformada;winter melting from one half of a tree while the other half blossoms into spring
+063;objeto_com_vida;a red umbrella flying by itself over the sea followed by a trail of small rain clouds
+064;objeto_com_vida;an open suitcase releasing butterflies that carry miniature landscapes on their wings
+065;objeto_com_vida;a rocking chair gently rowing itself across a moonlit wooden floor that becomes water
+066;objeto_com_vida;a brass key wandering through a garden and trying the locks of closed flowers
+067;objeto_com_vida;a table lamp bending down to read a book beside a sleeping cat
+068;objeto_com_vida;a clock growing roots and branches while its hours escape as birds
+069;objeto_com_vida;a pair of worn shoes leaving footprints that become tiny pools reflecting different skies
+070;objeto_com_vida;a teapot pouring a miniature warm summer into a cup cracked by winter
+071;objeto_com_vida;an empty picture frame walking through a gallery and collecting pieces of the outside world
+072;objeto_com_vida;a sewing needle pulling a silver thread that stitches together two separate horizons
+073;objeto_com_vida;a lonely telephone booth ringing in a forest as fireflies answer its light
+074;objeto_com_vida;a small mirror refusing to reflect a room and showing an ocean storm instead
+075;cena_emocional_ambigua;two umbrellas drifting apart in the rain while their shadows remain holding hands
+076;cena_emocional_ambigua;an empty chair facing the sunset with a second sunset glowing on its seat
+077;cena_emocional_ambigua;two distant figures exchanging a single paper boat across a river made of stars
+078;cena_emocional_ambigua;a door half open between a blooming garden and a room filled with falling snow
+079;cena_emocional_ambigua;a birthday cake with one candle floating away on a toy boat across a dark lake
+080;cena_emocional_ambigua;a small light left on inside an abandoned house while roots gently open the front door
+081;cena_emocional_ambigua;two kites with tangled strings flying toward opposite horizons under the same moon
+082;cena_emocional_ambigua;a single glove resting on a station bench beside a warm cup of tea and an open ticket
+083;cena_emocional_ambigua;a long dinner table set for two in a forest with one place overgrown by flowers
+084;cena_emocional_ambigua;a child’s paper crown resting at the edge of the sea as the tide brings it a star

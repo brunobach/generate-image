@@ -1,0 +1,19 @@
+{
+  "nome": "Deck 100 — novos conceitos",
+  "conceitos": "conceitos_deck100.txt",
+  "comfy_url": "http://127.0.0.1:8188",
+  "checkpoint": "DreamShaperXL_Turbo_v2_1.safetensors",
+  "lora": "StorybookRedmondV2-KidsBook-KidsRedmAF.safetensors",
+  "lora_peso": 0.8,
+  "upscaler": "4x-UltraSharp.pth",
+  "largura": 1024,
+  "altura": 1024,
+  "steps": 7,
+  "cfg": 2.2,
+  "sampler": "dpmpp_sde",
+  "scheduler": "karras",
+  "variacoes": 4,
+  "seed_base": 900001,
+  "timeout": 600,
+  "saida": "saidas_deck100"
+}

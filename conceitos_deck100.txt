@@ -1,0 +1,100 @@
+001;figura_humana_objeto_impossivel;a cartographer unfolding a paper map whose mountains and rivers rise into the real landscape
+002;figura_humana_objeto_impossivel;a girl collecting echoes from a canyon in glass bottles that glow with distant scenes
+003;figura_humana_objeto_impossivel;a deep sea diver hanging white laundry on a line stretched between two clouds
+004;figura_humana_objeto_impossivel;a woman planting tiny brass bells in snow as green sprouts emerge around them
+005;figura_humana_objeto_impossivel;a pianist playing a silent instrument whose invisible notes become pale moths
+006;figura_humana_objeto_impossivel;a baker opening a loaf of bread to reveal a warm miniature house with glowing windows
+007;figura_humana_objeto_impossivel;a diver towing a net filled with bubbles that each contain a tiny living forest
+008;figura_humana_objeto_impossivel;a traveler winding the horizon with a brass crank as distant hills roll closer
+009;figura_humana_objeto_impossivel;a tailor fitting a coat made of changing weather around a figure seen in profile
+010;figura_humana_objeto_impossivel;a boy planting mirrors in dark soil while their reflections bloom into flowers
+011;figura_humana_objeto_impossivel;a woman carrying her childhood home inside a carefully held bird nest
+012;figura_humana_objeto_impossivel;an old glassblower creating transparent bubbles filled with miniature thunderstorms
+013;figura_humana_objeto_impossivel;a painter erasing sections of a mountain to reveal a starry void underneath
+014;figura_humana_objeto_impossivel;a librarian shelving books that float upward like jellyfish in a flooded reading room
+015;figura_humana_objeto_impossivel;an astronaut tethered to a floating houseplant while walking across the moon
+016;figura_humana_objeto_impossivel;a child guiding a procession of lost shadows home with a small green lantern
+017;figura_humana_objeto_impossivel;a fisherman hauling a sunken piano from a lake while its keys glow beneath the water
+018;figura_humana_objeto_impossivel;a man opening his long coat to release a migrating flock into a winter station
+019;figura_humana_objeto_impossivel;a girl folding the distant horizon into a paper fan above a quiet valley
+020;figura_humana_objeto_impossivel;a traveler offering a railway ticket to a cloud waiting at an abandoned platform
+021;figura_humana_objeto_impossivel;a woman building a boat from enormous leaves in the center of an empty ballroom
+022;figura_humana_objeto_impossivel;two figures carefully balancing a sleeping giant’s dream inside a glass sphere
+023;figura_humana_objeto_impossivel;a person carrying glowing fish in a translucent backpack across a dry desert
+024;figura_humana_objeto_impossivel;an old woman knitting a blanket of fog to cover a sleeping city
+025;animal_antropomorfizado;an octopus lighthouse keeper polishing the moon with a soft cloth
+026;animal_antropomorfizado;a rabbit astronomer tuning constellations with an old wooden radio
+027;animal_antropomorfizado;a cat architect constructing an elaborate nest from rulers and folded blueprints
+028;animal_antropomorfizado;a whale postman delivering floating glass bottles through a cloudy sky
+029;animal_antropomorfizado;a badger baker selling crescent shaped bread from a shop inside a tree stump
+030;animal_antropomorfizado;a sparrow surgeon mending a butterfly wing with delicate spider silk
+031;animal_antropomorfizado;a deer serving tea inside a small pavilion nestled between its branching antlers
+032;animal_antropomorfizado;a crocodile barber trimming the cloud surrounding a patient giant’s head
+033;animal_antropomorfizado;an owl ferryman rowing a crescent shaped boat across a still pond
+034;animal_antropomorfizado;a team of mice moving a sleeping cat inside a walnut shell on tiny wheels
+035;animal_antropomorfizado;a penguin gardener growing crystalline ice flowers beside a warm volcano
+036;animal_antropomorfizado;a turtle diver salvaging ornate lost clocks from a colorful coral reef
+037;animal_antropomorfizado;a fox painting small blue doors on a cliff with the tip of its tail
+038;animal_antropomorfizado;a moth librarian guarding luminous books in a dark attic
+039;animal_antropomorfizado;a goat mountain guide leading tiny travelers across floating peaks
+040;animal_antropomorfizado;a chameleon artist painting itself into the backgrounds of several different rooms
+041;animal_antropomorfizado;a raccoon projectionist operating an outdoor cinema for an audience of fireflies
+042;animal_antropomorfizado;a heron carrying a miniature rain cloud on its back above a dry town
+043;cenario_impossivel;an opera house hidden inside a giant conch shell on an empty beach
+044;cenario_impossivel;an entire forest suspended beneath a glass dining table set for one
+045;cenario_impossivel;railway tracks woven into an enormous braid spanning a misty canyon
+046;cenario_impossivel;an underground station whose platforms are gigantic open books
+047;cenario_impossivel;a tiny village living inside a pocket watch while rivers of time flow around it
+048;cenario_impossivel;a mountain reflected in a lake that is actually a city beneath the water
+049;cenario_impossivel;a house whose rooms rotate like petals around a central spiral staircase
+050;cenario_impossivel;a lighthouse floating above a desert and guiding slow caravans of clouds
+051;cenario_impossivel;a suspension bridge made from oversized violin strings between two wooded cliffs
+052;cenario_impossivel;a moon observatory hidden inside a hollow iceberg drifting through a dark sea
+053;cenario_impossivel;a field of telephone poles holding enormous bird nests instead of wires
+054;cenario_impossivel;a submerged ballroom whose chandeliers drift like jellyfish above empty tables
+055;cenario_impossivel;a lush greenhouse carried on the back of a giant turtle crossing a snowy plain
+056;cenario_impossivel;a city whose streets flow like rivers with small boats passing between buildings
+057;cenario_impossivel;a museum of weather displaying miniature storms and breezes in glass cases
+058;cenario_impossivel;a windmill pumping stars into narrow irrigation canals across a dark field
+059;cenario_impossivel;a castle built inside a hollow book standing on an endless library shelf
+060;cenario_impossivel;a stairwell descending through bright clouds into a sunlit ocean below
+061;natureza_transformada;a field of flowers whose petals become tiny sails carried away by the wind
+062;natureza_transformada;a forest reflected in a puddle showing the opposite season in every tree
+063;natureza_transformada;snowy mountain peaks growing from the backs of whales swimming through clouds
+064;natureza_transformada;a river turning into a flock of silver birds where it reaches a waterfall
+065;natureza_transformada;the rings inside a cut oak trunk containing miniature oceans with tiny waves
+066;natureza_transformada;rain rising upward from open flowers into waiting clouds
+067;natureza_transformada;moonlight turning cactus spines into delicate glowing harp strings
+068;natureza_transformada;desert dunes gradually taking the shapes of enormous sleeping animals
+069;natureza_transformada;giant mushrooms carrying clear ponds with swimming fish on their caps
+070;natureza_transformada;a solitary tree growing antique keys instead of leaves
+071;natureza_transformada;green vines stitching together two separated cliffs above a deep valley
+072;natureza_transformada;smooth stones cracking open and hatching into small birds
+073;natureza_transformada;colorful coral blooming among clouds above a rainy moor
+074;natureza_transformada;sunflower shadows becoming sundials that each indicate a different season
+075;objeto_com_vida;an antique sewing machine stitching ocean waves neatly to the shore
+076;objeto_com_vida;a paper lantern cracking open as small glowing birds hatch from within
+077;objeto_com_vida;a violin growing green vines around the seats of a silent concert hall
+078;objeto_com_vida;a worn leather boot containing a miniature waterfall and a lush mossy valley
+079;objeto_com_vida;a camera developing photographs that become open windows into other places
+080;objeto_com_vida;a brass compass whose several needles point toward different imaginary lands
+081;objeto_com_vida;a telescope pulling distant stars closer with almost invisible silver threads
+082;objeto_com_vida;a cracked teacup containing a tiny desert caravan walking around its rim
+083;objeto_com_vida;a school of antique keys swimming like fish around a locked treasure chest
+084;objeto_com_vida;a bicycle pedaling itself through the sky and leaving twin tracks of cloud
+085;objeto_com_vida;an open book turning its own pages in the wind and releasing tiny weather systems
+086;objeto_com_vida;a ladder leaning against empty air and descending into a puddle’s reflection
+087;objeto_com_vida;an old suitcase containing a miniature train that circles its folded clothes
+088;objeto_com_vida;a gramophone playing silent music while flowers grow from its brass horn
+089;cena_emocional_ambigua;two empty swings moving together in the fog while a third remains still
+090;cena_emocional_ambigua;an unwrapped gift box on a doorstep holding a small warm sunrise
+091;cena_emocional_ambigua;an unopened envelope carried by a bird between two distant dark houses
+092;cena_emocional_ambigua;two cups on opposite windowsills sharing the same curling ribbon of steam
+093;cena_emocional_ambigua;an empty boat returning to shore filled with fresh flowers after a storm
+094;cena_emocional_ambigua;two trails of footprints meeting on a beach before rising as birds
+095;cena_emocional_ambigua;a child’s bed floating into the night while its small nightlight remains on shore
+096;cena_emocional_ambigua;two chairs separated by a growing tree but sharing one continuous shadow
+097;cena_emocional_ambigua;a red scarf linking two people walking away through separate banks of fog
+098;cena_emocional_ambigua;house lights turning on one by one as a distant figure walks away
+099;cena_emocional_ambigua;a wilted bouquet in a vase with one flower becoming a butterfly
+100;cena_emocional_ambigua;a tiny chair beside an enormous window facing an approaching luminous storm
